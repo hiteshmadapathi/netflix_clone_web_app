@@ -1,4 +1,4 @@
-# About the project
+# About the Project
  Created netflix clone web app using REACTJS and CSS. The related content has been imported using API key of TMDB website. 
  
  Here is the live demo: https://netflix-clone-65a06.web.app/
